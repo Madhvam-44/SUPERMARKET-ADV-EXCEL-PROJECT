@@ -49,4 +49,4 @@ Open Supermarket_Sales_Dashboard.xlsx in Microsoft Excel
 Use the slicers on the right panel to filter by Gender, Branch, Payment type, Customer type, Product line, or Date
 Explore the charts to uncover sales trends and patterns
 
-7.  Screenshot of the dashboard - ![Alt Text]
+7.  Screenshot of the dashboard - ![Alt Text](https://github.com/Madhvam-44/SUPERMARKET-ADV-EXCEL-PROJECT/blob/main/Snapshot%20of%20the%20Dashboard.png)
